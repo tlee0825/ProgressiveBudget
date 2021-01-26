@@ -1,5 +1,6 @@
 #ProgressiveBudgetPlanner
 
+![Budget Screenshot](/Users/tesheralee/Documents/GitHub/ProgressiveBudget/Develop/public/1BE53A0A-6E01-45AA-9866-08A687A099FA.png)
 
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
