@@ -1,1 +1,1 @@
-# TimeManagementPlanner
+#ProgressiveBudgetPlanner
